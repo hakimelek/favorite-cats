@@ -3,7 +3,7 @@
 Install it and run:
 
 ```bash
-yarn
+yarn install
 yarn run dev
 ```
 
